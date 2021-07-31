@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=palmerye&theme=vue)](https://github.com/palmerye)
 
+![](https://visitor-badge.glitch.me/badge?page_id=palmerye.readme)
+
 ![](http://antzuhl.cn:4000/get/@palmerye)
